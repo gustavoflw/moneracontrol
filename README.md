@@ -1,3 +1,3 @@
 # moneracontrol
 
-Control for swarm robots.
+ROS package to control swarm robots.
